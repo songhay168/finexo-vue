@@ -2,7 +2,7 @@
   <div class="hero_area">
     <div class="hero_bg_box">
       <div class="bg_img_box">
-        <img src= "/CADT/VueJs/finexo-vue/public/images/hero-bg.png" alt="" />
+        <img src= "/images/hero-bg.png" alt="" />
       </div>
     </div>
     <hero />

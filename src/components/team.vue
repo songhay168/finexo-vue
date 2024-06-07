@@ -5,17 +5,17 @@
         <div class="heading_container heading_center">
           <h2 class="">Our <span> Team</span></h2>
         </div>
-        <smallteam/>
-        
+        <smallteam />
       </div>
     </section>
   </div>
 </template>
 
 <script>
-import smallteam from './smallteam.vue';
+import smallteam from "./smallteam.vue";
 export default {
-  components: { smallteam },};
+  components: { smallteam },
+};
 </script>
 
 <style></style>

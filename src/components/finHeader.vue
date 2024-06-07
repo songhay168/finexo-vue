@@ -28,7 +28,10 @@
               <li class="nav-item" :class="{ active: $route.path == '/about' }">
                 <router-link to="/about" class="nav-link">About</router-link>
               </li>
-              <li class="nav-item" :class="{ active: $route.path == '/servies' }">
+              <li
+                class="nav-item"
+                :class="{ active: $route.path == '/servies' }"
+              >
                 <router-link to="/servies" class="nav-link"
                   >Service</router-link
                 >
@@ -36,13 +39,25 @@
               <li class="nav-item" :class="{ active: $route.path == '/whyus' }">
                 <router-link to="/whyus" class="nav-link">Why Us</router-link>
               </li>
-              <li class="nav-item" :class="{ active: $route.path == '/teamus' }">
+              <li
+                class="nav-item"
+                :class="{ active: $route.path == '/teamus' }"
+              >
                 <router-link to="/teamus" class="nav-link">Team</router-link>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">
-                  <i class="fa fa-user" aria-hidden="true"></i> Login</a
+              <li
+                class="nav-item"
+                :class="{ active: $route.path == '/register' }"
+              >
+                <router-link to="/register" class="nav-link"
+                  >Register</router-link
                 >
+              </li>
+              <li class="nav-item" :class="{ active: $route.path == '/login' }">
+                <router-link to="/login" class="nav-link">Login</router-link>
+              </li>
+              <li class="nav-item active">
+                <button @click="changeLang">Change</button>
               </li>
               <form class="form-inline">
                 <button class="btn my-2 my-sm-0 nav_search-btn" type="submit">
@@ -58,7 +73,17 @@
 </template>
 
 <script>
-export default {};
+export default {
+  methods: {
+    changeLang() {
+      if (this.$i18n.locale == "en") {
+        this.$i18n.locale = "km";
+      } else {
+        this.$i18n.locale = "en";
+      }
+    },
+  },
+};
 </script>
 
 <style>

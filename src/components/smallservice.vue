@@ -29,19 +29,19 @@ export default {
       imgs: [
         {
           title: "CURRENCY WALLET",
-          locat: "images/service_img/s1.png",
+          locat: "/images/service_img/s1.png",
           content:
             "fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
         },
         {
           title: "SECURITY STORAGE",
-          locat: "images/service_img/s2.png",
+          locat: "/images/service_img/s2.png",
           content:
             "fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
         },
         {
           title: "EXPERT SUPPORT",
-          locat: "images/service_img/s3.png",
+          locat: "/images/service_img/s3.png",
           content:
             "fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
         },

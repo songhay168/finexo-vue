@@ -23,7 +23,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client1.jpg" alt="" class="box-img" />
+                        <img src="/images/client1.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -49,7 +49,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client2.jpg" alt="" class="box-img" />
+                        <img src="/images/client2.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -72,7 +72,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client1.jpg" alt="" class="box-img" />
+                        <img src="/images/client1.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -95,7 +95,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client2.jpg" alt="" class="box-img" />
+                        <img src="/images/client2.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -118,7 +118,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client1.jpg" alt="" class="box-img" />
+                        <img src="/images/client1.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -144,7 +144,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client2.jpg" alt="" class="box-img" />
+                        <img src="/images/client2.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -170,7 +170,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client1.jpg" alt="" class="box-img" />
+                        <img src="/images/client1.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
@@ -196,7 +196,7 @@
                   <div class="item">
                     <div class="box">
                       <div class="img-box">
-                        <img src="/CADT/VueJs/finexo-vue/public/images/client2.jpg" alt="" class="box-img" />
+                        <img src="/images/client2.jpg" alt="" class="box-img" />
                       </div>
                       <div class="detail-box">
                         <div class="client_id">
